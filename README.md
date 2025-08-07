@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey.. I'm Yuvraj Singh Thakur:
 🔭 I’m currently working on:  <br>Mastering the MERN stack, diving deeper into React, Redux, Node.js, Express, MongoDB, AWS & DevOps concept as well..<br><br>🤝 I’m looking to collaborate on:  <br>Challenging frontend and backend features, especially anything involving real-time apps, clean architecture, or performance optimization.<br><br>💬 I’m looking for help with:  <br>System design concepts and real-world architecture patterns that scale.<br><br>🌱 I’m currently learning:  <br>Advanced React or NextJs patterns, scalable backend design, and solving DSA problems to sharpen my problem-solving edge.<br><br>💬 Ask me about:  <br>React, Redux, JavaScript, Node.js, MongoDB, Express, AWS, C++, Java or DSA, especially if it's about clean code or debugging weird bugs.<br><br>⚡ Fun fact:  <br>I treat my console like a therapist, I tell it all my problems, and somehow... it helps me find the solution 😄<br>
 
 
